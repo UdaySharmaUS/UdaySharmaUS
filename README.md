@@ -7,6 +7,32 @@
 
 <p>I have been practising my problem-solving skills in DSA and actively exploring research papers and building relevant projects in my domain.</p>
 
+Hi there! I'm Anant Agrawal, a passionate software developer with a strong background in coding and technical stuff. I love exploring new technologies and figuring out how they can be applied to solve real-world problems.
+
+
+How to Contact Me
+
+If you have any questions or would like to chat, please feel free to reach out to me through any of the following channels:
+
+
+Email: udaysharma0707@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/uday-sharma-366390227/
+
+Instagram: https://www.instagram.com/udaysharma.us/
+
+I'm always open to new ideas and collaborations, so don't hesitate to get in touch!
+
+My Passion for Coding and Technical Stuff
+Ever since I was a kid, I've been fascinated by the power of computers and what they can do. Over the years, I've honed my skills in coding and software development
+
+What I love most about coding is the ability to turn ideas into reality. There's nothing quite like the feeling of seeing something you've built come to life and make a difference in the world.
+
+I'm constantly learning and exploring new technologies, and I'm always looking for ways to improve my skills and stay up-to-date with the latest trends and best practices. Whether it's through online courses, hackathons, or just experimenting on my own, I'm always pushing myself to be the best developer I can be.
+
+Thanks for taking the time to read this, and I hope to hear from you soon!
+
+
 
 <h2>My Skill Set</h2>
 
