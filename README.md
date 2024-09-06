@@ -20,7 +20,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>-->
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="500" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
+  <img align="right" top="500" height="300" width="350" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 </a>
 
 How to Contact Me
