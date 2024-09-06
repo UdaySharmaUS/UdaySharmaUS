@@ -45,6 +45,9 @@ I'm constantly learning and exploring new technologies, and I'm always looking f
 
 Thanks for taking the time to read this, and I hope to hear from you soon!
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="700">
+<br><br>
+
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
