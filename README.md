@@ -39,11 +39,8 @@
 
 <h2>Connect with me</h2>
 
-<p>Write something nice in my guest book:</p>
-<a href="https://github.com/sharma-kshitij-ks/sharma-kshitij-ks/issues/1"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book"></a>
-
 <p>Feel free to connect with me:</p>
-<a href="(https://www.linkedin.com/in/uday-sharma-366390227/)"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/uday-sharma-366390227/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/udaysharma.us/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:udaysharma0707@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1" alt="Email"></a>
 
