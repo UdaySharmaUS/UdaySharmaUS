@@ -64,17 +64,21 @@ Thanks for taking the time to read this, and I hope to hear from you soon!
 
 <p align="left"> 
   
-
-  <a href="https://dart.dev/">
-    <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <a href="https://www.cprogramming.com/">
+    <img alt="C" src="https://profilinator.rishav.dev/skills-assets/c-original.svg"/>
+  </a>
+  &emsp;
+<a href="https://www.cplusplus.com/">
+    <img alt="Python" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg"/>
   </a>
 &emsp;
 <a href="https://python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
   </a>
   &emsp;
-<a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<a>
+    <img alt="Java" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white
+"/>
   </a>
 
 
