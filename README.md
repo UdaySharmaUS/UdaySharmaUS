@@ -41,35 +41,24 @@ Thanks for taking the time to read this, and I hope to hear from you soon!
 
 
 <div>
-     <a href="https://www.cplusplus.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="60" /></a>
-</div>
-<div>
     <a href="https://www.cprogramming.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="60" /></a>
+       <a href="https://www.cplusplus.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="60" /></a>
 </div>
-<div>
-    <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" /></a>
-</div>
+
 <div>
     <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="60" /></a>
+      <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" /></a>
+         <a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="60" /></a>
 </div>
-<div>
-   <a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="60" /></a>
-</div>
+
 <div>
     <a href="https://www.tensorflow.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="60" /></a>   
+      <a href="https://keras.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="60" /></a>
+
 </div>
-<div>
-    <a href="https://keras.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="60" /></a>
-</div>
-<div>
-<a href= https://html.com/?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-</div>
-<div>
-     <a href="https://www.cplusplus.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="60" /></a>
-</div>
-<div>
-     <a href="https://www.cplusplus.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="60" /></a>
-</div>
+
+
+
 
 
 
