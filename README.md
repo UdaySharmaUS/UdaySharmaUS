@@ -16,9 +16,12 @@
 
 <p>I have been practising my problem-solving skills in DSA and building relevant projects in my domain.</p>
 
-<a target="_blank" align="center">
+<!--<a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+</a>-->
+- Coworking
+<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif"img align="right" top="500" height="300" width="400" >
+<br><br>
 
 How to Contact Me
 
