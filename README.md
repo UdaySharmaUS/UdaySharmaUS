@@ -65,25 +65,17 @@ Thanks for taking the time to read this, and I hope to hear from you soon!
 <p align="left"> 
   
   <a href="https://www.cprogramming.com/">
-    <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white
-"/>
+    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   </a>
   &emsp;
 <a href="https://www.cplusplus.com/">
-    <img alt="Python" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
-"/>
+    <img alt="Python" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
   </a>
 &emsp;
 <a href="https://python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
   </a>
   &emsp;
-<a>
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white
-"/>
-  </a>
-
-
 </p>
 
 ### 👉 Frameworks
