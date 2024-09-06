@@ -1,6 +1,12 @@
 ![abc](https://github.com/sharma-kshitij-ks/sharma-kshitij-ks/assets/124446613/6da00b1d-144c-4625-beec-052fdb2d478c)
 
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Uday+Sharma!+👋)](https://git.io/typing-svg)
 ![](https://gitwar.herokuapp.com/badge?username=sharma-kshitij-ks&color=blue)
 
@@ -103,14 +109,6 @@ Thanks for taking the time to read this, and I hope to hear from you soon!
     &emsp;
     
 </p>
-
-
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<br><br>
-
-
-
 
 <h3>Current Focus</h3>
 <ul>
