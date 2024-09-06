@@ -4,8 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Uday+Sharma!+👋)](https://git.io/typing-svg)
 ![](https://gitwar.herokuapp.com/badge?username=sharma-kshitij-ks&color=blue)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-
 
 <p>Hi there! I'm Uday Sharma Final-year Computer Engineering student at Thapar Institute of Engineering and Technology, Patiala . I love exploring new technologies and figuring out how they can be applied to solve real-world problems.</p>
 
