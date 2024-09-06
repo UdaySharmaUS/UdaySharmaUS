@@ -119,9 +119,8 @@ Thanks for taking the time to read this, and I hope to hear from you soon!
 
 <h3>Current Focus</h3>
 <ul>
-    
-    🌱 I’m currently learning about advanced algorithms and deep learning architectures from research papers.
     🔭 I’m currently working on improving my problem solving skills in DSA.
+    🌱 I’m currently learning about advanced algorithms and deep learning architectures.
     👯 I’m looking to collaborate on real world projects related to AI, ML, and Data Science.
 </ul>
 
