@@ -3,12 +3,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Uday+Sharma!+👋)](https://git.io/typing-svg)
 ![](https://gitwar.herokuapp.com/badge?username=sharma-kshitij-ks&color=blue)
-<p>I'm a Final-year Computer Engineering student at Thapar Institute of Engineering and Technology, Patiala. I've built my foundational understanding in mathematics and statistics, which equips me to approach the problems of ML in a systemic manner, in order to derive meaningful business insights from data.</p>
 
-<p>I have been practising my problem-solving skills in DSA and actively exploring research papers and building relevant projects in my domain.</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-Hi there! I'm Anant Agrawal, a passionate software developer with a strong background in coding and technical stuff. I love exploring new technologies and figuring out how they can be applied to solve real-world problems.
 
+<p>Hi there! I'm Uday Sharma Final-year Computer Engineering student at Thapar Institute of Engineering and Technology, Patiala . I love exploring new technologies and figuring out how they can be applied to solve real-world problems.</p>
+
+<p>I have been practising my problem-solving skills in DSA and building relevant projects in my domain.</p>
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 How to Contact Me
 
